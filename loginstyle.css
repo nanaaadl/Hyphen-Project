@@ -159,9 +159,9 @@ input {
 }
 
 .overlay {
-	background: #FF416C;
-	background: -webkit-linear-gradient(to right, #FF4B2B, #FF416C);
-	background: linear-gradient(to right, #FF4B2B, #FF416C);
+	background: #2f75ec;
+	background: -webkit-linear-gradient(to right, #44484d, #354647);
+	background: linear-gradient(to right, #445155, #2e3535);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: 0 0;
@@ -242,7 +242,7 @@ footer p {
 }
 
 footer i {
-    color: red;
+    color: rgb(38, 95, 182);
 }
 
 footer a {

@@ -140,7 +140,7 @@ footer a {
     color:red;
 }
 mark {
-    background-color: black;
-    color: white;
-    opacity: 0.30;
+    background-color: gray;
+    color: black;
+    opacity: 0.80;
   }

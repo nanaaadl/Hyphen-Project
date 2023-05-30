@@ -81,7 +81,25 @@
     
     
   }
-
-  .new{
-    
+  .para{
+    padding: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
   }
+
+  footer {
+    background-color: darkgray;
+    color: #fff;
+    font-size: 10px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    z-index: 999;
+}
+.place{
+  align-items: flex-end;
+  align-content: flex-end;
+  text-align: right;
+  align-tracks:right;
+}

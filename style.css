@@ -11,6 +11,9 @@
     transition: 0.5s;
 }
 
+.navbar{
+  place-items: right;
+}
 .overlay-content {
     position: relative;
     top: 25%;
